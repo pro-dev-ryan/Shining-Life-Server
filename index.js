@@ -11,13 +11,17 @@ app.get("/sidebar", (req, res) => {
   res.send(sidebarData);
 });
 
-app.get("/courses/:id", (req, res) => {
-  const id = req.params.id;
-  console.log(req.params.id);
-  const singleCourse = courses.filter((course) => course.id === id);
-  res.send(singleCourse);
-  console.log(singleCourse);
+app.get("/courses", (req, res) => {
+  res.send(courses);
 });
+
+// app.get("/courses/:id", (req, res) => {
+//   const id = req.params.id;
+//   console.log(req.params.id);
+//   const singleCourse = courses.filter((course) => course.id === id);
+//   res.send(singleCourse);
+//   console.log(singleCourse);
+// });
 
 app.listen(port, () => {
   console.log("app is running on", port);

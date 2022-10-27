@@ -13,6 +13,7 @@
   {
     "courseName": "React Zero to Hero",
     "id": "02",
+    "courseThumb": "https://cdn-images-1.medium.com/max/800/1*zRJjAN-REufPq8D8ZpQDeg.jpeg",
     "mentor": {
       "mentorName": "Maxima Swagger",
       "institute": "Academind"
@@ -33,6 +34,7 @@
   {
     "courseName": "Digital Marketing",
     "id": "04",
+    "courseThumb": "https://axlitacademy.com/images/java.jpg",
     "mentor": {
       "mentorName": "Daniel Kob",
       "institute": "Stanford"
@@ -43,6 +45,7 @@
   {
     "courseName": "UX Design",
     "id": "05",
+    "courseThumb": "https://www.appschopper.com/blog/wp-content/uploads/2019/03/mobile-app-design-process-AppsChopper.png",
     "mentor": {
       "mentorName": "Mike kendrick",
       "institute": "Google"
@@ -53,6 +56,7 @@
   {
     "courseName": "Meta Front-End",
     "id": "06",
+    "courseThumb": "https://www.appschopper.com/blog/wp-content/uploads/2019/03/mobile-app-design-process-AppsChopper.png",
     "mentor": {
       "mentorName": "Risa Pell",
       "institute": "Meta"
