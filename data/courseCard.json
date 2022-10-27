@@ -7,6 +7,7 @@
       "mentorName": "Kyle dev",
       "institute": "Newb"
     },
+    "enrolled": "1,14,250",
     "rating": 4.4,
     "price": 38
   },
@@ -18,27 +19,32 @@
       "mentorName": "Maxima Swagger",
       "institute": "Academind"
     },
+    "enrolled": "1,33,250",
+
     "rating": 4.6,
     "price": 55
   },
   {
     "courseName": "Java Programming",
     "id": "03",
+    "courseThumb": "https://axlitacademy.com/images/java.jpg",
     "mentor": {
       "mentorName": "Tim Buchalka",
       "institute": "Programming Academy"
     },
+    "enrolled": "33,250",
     "rating": 4.5,
     "price": 52
   },
   {
     "courseName": "Digital Marketing",
     "id": "04",
-    "courseThumb": "https://axlitacademy.com/images/java.jpg",
+    "courseThumb": "https://www.zooinfotech.com/wp-content/uploads/2021/06/digital-marketing-course.jpg",
     "mentor": {
       "mentorName": "Daniel Kob",
       "institute": "Stanford"
     },
+    "enrolled": "2,33,250",
     "rating": 4.7,
     "price": 38
   },
@@ -50,17 +56,19 @@
       "mentorName": "Mike kendrick",
       "institute": "Google"
     },
+    "enrolled": "63,660",
     "rating": 4.4,
     "price": 40
   },
   {
     "courseName": "Meta Front-End",
     "id": "06",
-    "courseThumb": "https://www.appschopper.com/blog/wp-content/uploads/2019/03/mobile-app-design-process-AppsChopper.png",
+    "courseThumb": "https://webnotics.solutions/wp-content/uploads/2021/10/Front-End-Development.png",
     "mentor": {
       "mentorName": "Risa Pell",
       "institute": "Meta"
     },
+    "enrolled": "3,22,142",
     "rating": 4.9,
     "price": 62
   }

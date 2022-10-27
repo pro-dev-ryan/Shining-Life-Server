@@ -7,9 +7,9 @@
     "rating": 4.4,
     "price": 38,
     "courseDetails": {
-      "What you'll learn": "Master Microsoft Excel from Beginner to Advanced Build a solid understanding on the Basics of Microsoft Excel Learn the most common Excel functions used in the Office Harness the full power of Microsoft Excel by automating your day to day tasks through Macros and VBA Maintain large sets of Excel data in a list or table Create dynamic reports by mastering one of the most popular tools, PivotTables Wow your boss by unlocking dynamic formulas with IF, VLOOKUP, INDEX, MATCH functions and many more Access to a Professional Trainer with 10+ years of Excel Training.",
+      "learningTopics": "Master Microsoft Excel from Beginner to Advanced Build a solid understanding on the Basics of Microsoft Excel Learn the most common Excel functions used in the Office Harness the full power of Microsoft Excel by automating your day to day tasks through Macros and VBA Maintain large sets of Excel data in a list or table Create dynamic reports by mastering one of the most popular tools, PivotTables Wow your boss by unlocking dynamic formulas with IF, VLOOKUP, INDEX, MATCH functions and many more Access to a Professional Trainer with 10+ years of Excel Training.",
       "Requirements": "No Prior Excel Knowledge Required Microsoft Excel 2007, 2010, 2013, 2013, 2019 or Microsoft 365 Excel Loaded on Computer to Follow Along with Instructor Lectures is Recommended",
-      "Who this course is for": "This Microsoft Excel courses will take you through 4 levels of Microsoft Excel topics (Beginner, Intermediate, Advanced and Macros/VBA). If your looking to take your Excel skills from beginner to advanced level and beyond, then this course is for you."
+      "forWhom": "This Microsoft Excel courses will take you through 4 levels of Microsoft Excel topics (Beginner, Intermediate, Advanced and Macros/VBA). If your looking to take your Excel skills from beginner to advanced level and beyond, then this course is for you."
     }
   },
   {
@@ -23,14 +23,15 @@
     "rating": 4.6,
     "price": 55,
     "courseDetails": {
-      "What you'll learn": "Build powerful, fast, user-friendly and reactive web apps Provide amazing user experiences by leveraging the power of JavaScript with ease Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors you can find in web dev right now",
+      "learningTopics": "Build powerful, fast, user-friendly and reactive web apps Provide amazing user experiences by leveraging the power of JavaScript with ease Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors you can find in web dev right now",
       "Requirements": "JavaScript + HTML + CSS fundamentals are absolutely required You DON'T need to be a JavaScript expert to succeed in this course! ES6+ JavaScript knowledge is beneficial but not a must-have NO prior React or any other JS framework experience is required!",
-      "Who this course is for": "Students who want to learn how to build reactive and fast web apps Anyone who's interested in learning an extremely popular technology used by leading tech companies like Netflix Students who want to take their web development skills to the next level and learn a future-proof technology."
+      "forWhom": "Students who want to learn how to build reactive and fast web apps Anyone who's interested in learning an extremely popular technology used by leading tech companies like Netflix Students who want to take their web development skills to the next level and learn a future-proof technology."
     }
   },
   {
     "courseName": "Java Programming Masterclass covering Java 11 & Java 17",
     "id": "03",
+    "courseThumb": "https://axlitacademy.com/images/java.jpg",
     "mentor": {
       "mentorName": "Tim Buchalka",
       "institute": "Programming Academy"
@@ -38,15 +39,15 @@
     "rating": 4.5,
     "price": 52,
     "courseDetails": {
-      "What you'll learn": "Learn the core Java skills needed to apply for Java developer positions in just 14 hours. Be able to sit for and pass the Oracle Java Certificate exam if you choose. Be able to demonstrate your understanding of Java to future employers. Learn industry best practices in Java software development from a professional Java developer who has worked in the language for 18 years. Acquire essential java basics for transitioning to the Spring Framework, Java EE, Android development and more. Obtain proficiency in Java 8 and Java 11.",
+      "learningTopics": "Learn the core Java skills needed to apply for Java developer positions in just 14 hours. Be able to sit for and pass the Oracle Java Certificate exam if you choose. Be able to demonstrate your understanding of Java to future employers. Learn industry best practices in Java software development from a professional Java developer who has worked in the language for 18 years. Acquire essential java basics for transitioning to the Spring Framework, Java EE, Android development and more. Obtain proficiency in Java 8 and Java 11.",
       "Requirements": "A computer with either Windows, Mac or Linux to install all the free software and tools needed to build your new apps (I provide specific videos on installations for each platform).A strong work ethic, willingness to learn, and plenty of excitement about the awesome new programs you’re about to build. Nothing else! It’s just you, your computer and your hunger to get started today.",
-      "Who this course is for": "This course is perfect for absolute beginners with no previous coding experience, to intermediates looking to sharpen their skills to the expert level.Those looking to build creative and advanced Java apps for either personal use or for high-paying clients as a self-employed contractor. Those who love letting their own creative genius shine, whilst getting paid handsome amounts to do so."
+      "forWhom": "This course is perfect for absolute beginners with no previous coding experience, to intermediates looking to sharpen their skills to the expert level.Those looking to build creative and advanced Java apps for either personal use or for high-paying clients as a self-employed contractor. Those who love letting their own creative genius shine, whilst getting paid handsome amounts to do so."
     }
   },
   {
     "courseName": "Digital Marketing",
     "id": "04",
-    "courseThumb": "https://axlitacademy.com/images/java.jpg",
+    "courseThumb": "https://www.zooinfotech.com/wp-content/uploads/2021/06/digital-marketing-course.jpg",
     "mentor": {
       "mentorName": "Daniel Kob",
       "institute": "Stanford"
@@ -54,9 +55,9 @@
     "rating": 4.7,
     "price": 38,
     "courseDetails": {
-      "What you'll learn": "You’ll master the skills necessary to level up your tech career. Learn digital marketing concepts including value propositions, marketing objectives, KPIs, targeted personas, customer journeys, marketing channels, content strategy, and more. 1.* Marketing Fundamentals, * Marketing Data and Technology, * Social Media Marketing (Elective), * Seo Essentials (Elective), * Search Engine Marketing (Elective), * Digital Advertising (Elective), * Email marketing (Elective)",
+      "learningTopics": "You’ll master the skills necessary to level up your tech career. Learn digital marketing concepts including value propositions, marketing objectives, KPIs, targeted personas, customer journeys, marketing channels, content strategy, and more. 1.* Marketing Fundamentals, * Marketing Data and Technology, * Social Media Marketing (Elective), * Seo Essentials (Elective), * Search Engine Marketing (Elective), * Digital Advertising (Elective), * Email marketing (Elective)",
       "Requirements": "No prior experience is required, but it is recommended that learners are comfortable with basic computer skills, such as managing files, using third-party online programs, and navigating the internet through an online browser.",
-      "Who this course is for": "This course is perfect for absolute beginners with no previous coding experience, to intermediates looking to sharpen their skills to the expert level.Those looking to build creative and advanced Java apps for either personal use or for high-paying clients as a self-employed contractor. Those who love letting their own creative genius shine, whilst getting paid handsome amounts to do so."
+      "forWhom": "This course is perfect for absolute beginners with no previous coding experience, to intermediates looking to sharpen their skills to the expert level.Those looking to build creative and advanced Java apps for either personal use or for high-paying clients as a self-employed contractor. Those who love letting their own creative genius shine, whilst getting paid handsome amounts to do so."
     }
   },
   {
@@ -70,15 +71,15 @@
     "rating": 4.4,
     "price": 40,
     "courseDetails": {
-      "What you'll learn": "Estimated 3 Months to complete You’ll learn how to create a digital user experience that is ready to be handed off for development. You’ll start by building familiarity and fluency with design research fundamentals to identify the user and the solutions they need.You’ll then synthesize your research, and use design sprints to take an idea from concept to low-fidelity prototype. Finally, you’ll learn how to turn your low-fidelity prototype into a high-fidelity design, and improve its performance based on data. Along the way, you’ll complete projects that can be incorporated into a UX portfolio at the end of the program in order to showcase your capabilities to future employers.",
+      "learningTopics": "Estimated 3 Months to complete You’ll learn how to create a digital user experience that is ready to be handed off for development. You’ll start by building familiarity and fluency with design research fundamentals to identify the user and the solutions they need.You’ll then synthesize your research, and use design sprints to take an idea from concept to low-fidelity prototype. Finally, you’ll learn how to turn your low-fidelity prototype into a high-fidelity design, and improve its performance based on data. Along the way, you’ll complete projects that can be incorporated into a UX portfolio at the end of the program in order to showcase your capabilities to future employers.",
       "Requirements": "UX Fundamentals & Design Research Concept to Low-Fidelity Prototyping High-Fidelity Prototyping to Post-Launch Analysis CAPSTONE - UX Portfolio Design",
-      "Who this course is for": "This course is perfect for absolute beginners with no previous coding experience, to intermediates looking to sharpen their skills to the expert level.Those looking to build creative and advanced Java apps for either personal use or for high-paying clients as a self-employed contractor. Those who love letting their own creative genius shine, whilst getting paid handsome amounts to do so."
+      "forWhom": "This course is perfect for absolute beginners with no previous coding experience, to intermediates looking to sharpen their skills to the expert level.Those looking to build creative and advanced Java apps for either personal use or for high-paying clients as a self-employed contractor. Those who love letting their own creative genius shine, whilst getting paid handsome amounts to do so."
     }
   },
   {
     "courseName": "Meta Front-End Developer Professional Certificate",
     "id": "06",
-    "courseThumb": "https://www.appschopper.com/blog/wp-content/uploads/2019/03/mobile-app-design-process-AppsChopper.png",
+    "courseThumb": "https://webnotics.solutions/wp-content/uploads/2021/10/Front-End-Development.png",
     "mentor": {
       "mentorName": "Risa Pell",
       "institute": "Meta"
@@ -86,9 +87,9 @@
     "rating": 4.9,
     "price": 62,
     "courseDetails": {
-      "What you'll learn": "Create a responsive website using HTML to structure content, CSS to handle visual style, and JavaScript to develop interactive experiences.Learn to use React in relation to Javascript libraries and frameworks.Learn Bootstrap CSS Framework to create webpages and work with GitHub repositories and version control.Learn Bootstrap CSS Framework to create webpages and work with GitHub repositories and version control. Learn Bootstrap CSS Framework to create webpages and work with GitHub repositories and version control.",
+      "learningTopics": "Create a responsive website using HTML to structure content, CSS to handle visual style, and JavaScript to develop interactive experiences.Learn to use React in relation to Javascript libraries and frameworks.Learn Bootstrap CSS Framework to create webpages and work with GitHub repositories and version control.Learn Bootstrap CSS Framework to create webpages and work with GitHub repositories and version control. Learn Bootstrap CSS Framework to create webpages and work with GitHub repositories and version control.",
       "Requirements": "No requirements Needed. Cause it's beginner friendly course for everyone.",
-      "Who this course is for": "Students who want to learn how to build reactive and fast web apps Anyone who's interested in learning an extremely popular technology used by leading tech companies like Netflix Students who want to take their web development skills to the next level and learn a future-proof technology."
+      "forWhom": "Students who want to learn how to build reactive and fast web apps Anyone who's interested in learning an extremely popular technology used by leading tech companies like Netflix Students who want to take their web development skills to the next level and learn a future-proof technology."
     }
   }
 ]
