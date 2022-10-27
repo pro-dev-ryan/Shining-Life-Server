@@ -1,0 +1,63 @@
+[
+  {
+    "courseName": "Microsoft Excel",
+    "id": "01",
+    "courseThumb": "https://miro.medium.com/max/750/0*xniZtcX7sggQwhIs.jpg",
+    "mentor": {
+      "mentorName": "Kyle dev",
+      "institute": "Newb"
+    },
+    "rating": 4.4,
+    "price": 38
+  },
+  {
+    "courseName": "React Zero to Hero",
+    "id": "02",
+    "mentor": {
+      "mentorName": "Maxima Swagger",
+      "institute": "Academind"
+    },
+    "rating": 4.6,
+    "price": 55
+  },
+  {
+    "courseName": "Java Programming",
+    "id": "03",
+    "mentor": {
+      "mentorName": "Tim Buchalka",
+      "institute": "Programming Academy"
+    },
+    "rating": 4.5,
+    "price": 52
+  },
+  {
+    "courseName": "Digital Marketing",
+    "id": "04",
+    "mentor": {
+      "mentorName": "Daniel Kob",
+      "institute": "Stanford"
+    },
+    "rating": 4.7,
+    "price": 38
+  },
+  {
+    "courseName": "UX Design",
+    "id": "05",
+    "mentor": {
+      "mentorName": "Mike kendrick",
+      "institute": "Google"
+    },
+    "rating": 4.4,
+    "price": 40
+  },
+  {
+    "courseName": "Meta Front-End",
+    "id": "06",
+    "mentor": {
+      "mentorName": "Risa Pell",
+      "institute": "Meta"
+    },
+    "rating": 4.9,
+    "price": 62
+  }
+]

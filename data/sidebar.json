@@ -1,0 +1,26 @@
+[
+  {
+    "id": "01",
+    "courseName": "Microsoft Excel"
+  },
+  {
+    "id": "02",
+    "courseName": "React Zero to Hero"
+  },
+  {
+    "id": "03",
+    "courseName": "Java Programming"
+  },
+  {
+    "id": "04",
+    "courseName": "Digital Marketing"
+  },
+  {
+    "id": "05",
+    "courseName": "UX Design"
+  },
+  {
+    "id": "06",
+    "courseName": "Meta Front-End"
+  }
+]
